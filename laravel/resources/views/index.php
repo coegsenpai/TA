@@ -22,7 +22,7 @@ Data Buku
 </div>
  <div class="card-body">
 
-      <table class="table table-bordered" id="my Table">
+      <table class="table table-bordered" id="myTable">
           <thead>
                <tr>
                     <th scope="col">NO.</th>
